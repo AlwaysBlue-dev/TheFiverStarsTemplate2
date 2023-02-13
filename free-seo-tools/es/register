@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Register - SumoSEOTools</title>
+<link rel="shortcut icon" href="https://zeracreative.com/free-seo-tools/components/storage/app/public/photos/1/zera-favicon-1-300x300.png" />
+<meta name="description" content="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout." />
+<meta name="robots" content="follow, noindex" />
+<link rel="canonical" href="https://zeracreative.com/free-seo-tools/es/register" />
+<meta property="og:locale" content="es_ES">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Register">
+<meta property="og:description" content="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.">
+<meta property="og:url" content="https://zeracreative.com/free-seo-tools/es/register">
+<meta property="og:site_name" content="Register">
+<meta property="og:updated_time" content="2022-11-11T10:01:24+00:00">
+<meta property="og:image" content="https://zeracreative.com/free-seo-tools/assets/img/nastuh.jpg">
+<meta property="og:image:secure_url" content="https://zeracreative.com/free-seo-tools/assets/img/nastuh.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="427">
+<meta property="og:image:alt" content="Register">
+<meta property="og:image:type" content="jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://zeracreative.com/free-seo-tools/assets/img/nastuh.jpg">
+<link rel="alternate" hreflang="ar" href="https://zeracreative.com/free-seo-tools/ar/register" />
+<link rel="alternate" hreflang="de" href="https://zeracreative.com/free-seo-tools/de/register" />
+<link rel="alternate" hreflang="en" href="https://zeracreative.com/free-seo-tools/register" />
+<link rel="alternate" hreflang="es" href="https://zeracreative.com/free-seo-tools/es/register" />
+<link rel="alternate" hreflang="fr" href="https://zeracreative.com/free-seo-tools/fr/register" />
+<link rel="alternate" hreflang="it" href="https://zeracreative.com/free-seo-tools/it/register" />
+<link rel="alternate" hreflang="pt" href="https://zeracreative.com/free-seo-tools/pt/register" />
+<link rel="alternate" hreflang="ru" href="https://zeracreative.com/free-seo-tools/ru/register" />
+<link rel="alternate" hreflang="tr" href="https://zeracreative.com/free-seo-tools/tr/register" />
+<link rel="alternate" hreflang="vi" href="https://zeracreative.com/free-seo-tools/vi/register" />
+
+<script rel="preload" src="https://zeracreative.com/free-seo-tools/assets/js/pace.min.js"></script>
+<link rel="stylesheet" href="https://zeracreative.com/free-seo-tools/assets/css/pace-theme-default.min.css">
+
+<link type="text/css" href="https://zeracreative.com/free-seo-tools/assets/css/fontawesome.min.css" rel="stylesheet">
+
+<link type="text/css" href="https://zeracreative.com/free-seo-tools/assets/css/nucleo-icons.css" rel="stylesheet">
+<link type="text/css" href="https://zeracreative.com/free-seo-tools/assets/css/nucleo-svg.css" rel="stylesheet">
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/jquery.min.js"></script>
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/popper.min.js"></script>
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/bootstrap.min.js"></script> 
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/perfect-scrollbar.min.js"></script>
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/smooth-scrollbar.min.js"></script>
+
+<link type="text/css" href="https://zeracreative.com/free-seo-tools/assets/css/main.ltr.min.css" rel="stylesheet">
+
+<link type="text/css" href="https://zeracreative.com/free-seo-tools/assets/css/custom.ltr.css" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
+<style>
+            body, .card .card-body {
+              font-family: Open Sans !important;
+            }
+          </style>
+<style>[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+</head>
+<body class="">
+<div wire:id="HepgQe0viknYDUVB396l" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;HepgQe0viknYDUVB396l&quot;,&quot;name&quot;:&quot;frontend.auth-pages&quot;,&quot;locale&quot;:&quot;es&quot;,&quot;path&quot;:&quot;es\/register&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:{&quot;l468051457-2&quot;:{&quot;id&quot;:&quot;o8buFnSp6Lqmf7wohnRL&quot;,&quot;tag&quot;:&quot;main&quot;}},&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;84131f51&quot;,&quot;data&quot;:{&quot;email&quot;:null,&quot;token&quot;:null,&quot;fullname&quot;:null,&quot;page&quot;:[],&quot;siteTitle&quot;:&quot;SumoSEOTools&quot;,&quot;general&quot;:[],&quot;profile&quot;:[],&quot;menus&quot;:[{&quot;id&quot;:38,&quot;text&quot;:&quot;Levels&quot;,&quot;url&quot;:&quot;#&quot;,&quot;menu_items&quot;:&quot;custom&quot;,&quot;icon&quot;:null,&quot;type&quot;:&quot;link&quot;,&quot;class&quot;:null,&quot;parent_id&quot;:&quot;0&quot;,&quot;sort&quot;:&quot;1&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;children&quot;:[{&quot;id&quot;:61,&quot;text&quot;:&quot;Level 2&quot;,&quot;url&quot;:&quot;#&quot;,&quot;menu_items&quot;:&quot;custom&quot;,&quot;icon&quot;:null,&quot;type&quot;:&quot;link&quot;,&quot;class&quot;:null,&quot;parent_id&quot;:&quot;38&quot;,&quot;sort&quot;:&quot;2&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;children&quot;:[]}]},{&quot;id&quot;:53,&quot;text&quot;:&quot;Contact&quot;,&quot;url&quot;:&quot;contact&quot;,&quot;menu_items&quot;:&quot;#&quot;,&quot;icon&quot;:null,&quot;type&quot;:&quot;link&quot;,&quot;class&quot;:null,&quot;parent_id&quot;:&quot;0&quot;,&quot;sort&quot;:&quot;8&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;children&quot;:[]},{&quot;id&quot;:54,&quot;text&quot;:&quot;Buy Now&quot;,&quot;url&quot;:&quot;#&quot;,&quot;menu_items&quot;:&quot;custom&quot;,&quot;icon&quot;:&quot;fas fa-shopping-basket&quot;,&quot;type&quot;:&quot;button&quot;,&quot;class&quot;:&quot;btn-primary&quot;,&quot;parent_id&quot;:&quot;0&quot;,&quot;sort&quot;:&quot;9&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;children&quot;:[]}],&quot;header&quot;:[],&quot;footer&quot;:[],&quot;captcha&quot;:[],&quot;notice&quot;:[],&quot;advanced&quot;:[],&quot;advertisement&quot;:[],&quot;socials&quot;:[{&quot;id&quot;:7,&quot;name&quot;:&quot;linkedin&quot;,&quot;url&quot;:&quot;https:\/\/www.linkedin.com\/company\/zeracreative\/&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:08:34.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:08:34.000000Z&quot;},{&quot;id&quot;:6,&quot;name&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/channel\/UCYjOcGVlAQTOUojOzVRkrsQ&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:08:34.000000Z&quot;},{&quot;id&quot;:3,&quot;name&quot;:&quot;instagram&quot;,&quot;url&quot;:&quot;https:\/\/www.instagram.com\/zeracreativepk\/&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:08:34.000000Z&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;twitter&quot;,&quot;url&quot;:&quot;https:\/\/twitter.com\/zeracreative&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:08:34.000000Z&quot;},{&quot;id&quot;:1,&quot;name&quot;:&quot;facebook&quot;,&quot;url&quot;:&quot;https:\/\/www.facebook.com\/zeracreativepk&quot;,&quot;created_at&quot;:&quot;2022-11-11T10:01:25.000000Z&quot;,&quot;updated_at&quot;:&quot;2022-11-11T10:08:34.000000Z&quot;}],&quot;twitter&quot;:[]},&quot;dataMeta&quot;:{&quot;models&quot;:{&quot;page&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Page&quot;,&quot;id&quot;:2,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;general&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\General&quot;,&quot;id&quot;:1,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;profile&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\User&quot;,&quot;id&quot;:3,&quot;relations&quot;:[&quot;user_socials&quot;],&quot;connection&quot;:&quot;mysql&quot;},&quot;header&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Header&quot;,&quot;id&quot;:1,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;footer&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\FooterTranslation&quot;,&quot;id&quot;:4,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;captcha&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Captcha&quot;,&quot;id&quot;:1,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;notice&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Gdpr&quot;,&quot;id&quot;:1,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;advanced&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Advanced&quot;,&quot;id&quot;:1,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;advertisement&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Advertisement&quot;,&quot;id&quot;:1,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;},&quot;twitter&quot;:{&quot;class&quot;:&quot;App\\Models\\Admin\\Social&quot;,&quot;id&quot;:null,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;}}},&quot;checksum&quot;:&quot;0c219db81f3e1388316c88aea7ee6ab7717d02b619c742ec8c24dad015c6de46&quot;}}" class="page">
+
+<nav class="navbar navbar-expand-lg  z-index-3 ">
+<div class="container">
+<a class="navbar-brand logo-image" title="SumoSEOTools" href="https://zeracreative.com/free-seo-tools/es">
+<img src="https://zeracreative.com/free-seo-tools/components/storage/app/public/photos/1/zera-logo-dark.png" alt="SumoSEOTools" class="navbar-brand-image">
+</a>
+<button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon mt-2">
+<span class="navbar-toggler-bar bar1"></span>
+<span class="navbar-toggler-bar bar2"></span>
+<span class="navbar-toggler-bar bar3"></span>
+</span>
+</button>
+<div class="collapse navbar-collapse w-100 pt-3 pb-2 py-lg-0" id="navigation">
+<ul class="navbar-nav navbar-nav-hover mx-auto">
+
+<li class="nav-item dropdown mx-2">
+<a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#navbarDropdownMenuChild" data-bs-toggle="dropdown" data-bs-auto-close="outside" role="button" aria-expanded="false">
+Levels
+<img src="https://zeracreative.com/free-seo-tools/assets/img/down-arrow.svg" alt="down-arrow" class="arrow ms-1" />
+</a>
+<div class="dropdown-menu dropdown-menu-animation px-2 mt-0 mt-lg-4">
+<ul class="list-group py-3 py-lg-0">
+<li class="nav-item dropdown dropdown-subitem list-group-item border-0 p-0">
+<a class="dropdown-item py-2 ps-3 border-radius-md" href="#">
+<div class="d-flex">
+<div class="w-100 d-flex align-items-center justify-content-between">
+<p class="dropdown-header d-flex align-items-center p-0">
+Level 2
+</p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div> </li>
+<li class="nav-item dropdown mx-2">
+<a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="https://zeracreative.com/free-seo-tools/es/contact">
+Contacto
+</a>
+</li>
+
+
+<li class="nav-item dropdown mx-2" wire:ignore>
+<a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" data-bs-toggle="dropdown">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/es.svg" alt="Español" class="lang-menu me-2 my-auto">
+Español
+<img src="https://zeracreative.com/free-seo-tools/assets/img/down-arrow.svg" alt="down-arrow" class="arrow ms-1" />
+</a>
+<div class="dropdown-menu dropdown-menu-animation px-2 mt-md-0 mt-lg-4">
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="ar" href="https://zeracreative.com/free-seo-tools/ar/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/ar.svg" alt="العربية" class="lang-menu me-2 my-auto"> العربية
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="de" href="https://zeracreative.com/free-seo-tools/de/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/de.svg" alt="Deutsch" class="lang-menu me-2 my-auto"> Deutsch
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="en" href="https://zeracreative.com/free-seo-tools/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/en.svg" alt="English" class="lang-menu me-2 my-auto"> English
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="es" href="https://zeracreative.com/free-seo-tools/es/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/es.svg" alt="Español" class="lang-menu me-2 my-auto"> Español
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="fr" href="https://zeracreative.com/free-seo-tools/fr/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/fr.svg" alt="Français" class="lang-menu me-2 my-auto"> Français
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="it" href="https://zeracreative.com/free-seo-tools/it/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/it.svg" alt="Italiano" class="lang-menu me-2 my-auto"> Italiano
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="pt" href="https://zeracreative.com/free-seo-tools/pt/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/pt.svg" alt="Português" class="lang-menu me-2 my-auto"> Português
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="ru" href="https://zeracreative.com/free-seo-tools/ru/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/ru.svg" alt="Русский" class="lang-menu me-2 my-auto"> Русский
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="tr" href="https://zeracreative.com/free-seo-tools/tr/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/tr.svg" alt="Türkçe" class="lang-menu me-2 my-auto"> Türkçe
+</a>
+<a class="dropdown-item border-radius-md mb-1" rel="alternate" hreflang="vi" href="https://zeracreative.com/free-seo-tools/vi/register">
+<img src="https://zeracreative.com/free-seo-tools/assets/img/flags/vi.svg" alt="Tiếng Việt" class="lang-menu me-2 my-auto"> Tiếng Việt
+</a>
+</div>
+</li>
+
+</ul>
+<ul class="navbar-nav navbar-nav-hover">
+<li class="nav-item mx-2 mx-lg-auto my-2 my-lg-auto">
+<a class="btn btn-icon btn-icon-only mb-0 me-2 bg-white btn-toggle-dir" type="button" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Modo de dirección (LTR / RTL)">
+<i class="fas fa-align-right text-primary"></i>
+</a>
+</li>
+<li class="nav-item mx-2 mx-lg-auto my-2 my-lg-auto">
+<a class="btn btn-icon btn-icon-only mb-0 me-2 bg-white btn-toggle-mode" type="button" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Modo de tema (claro / oscuro)">
+ <i class="fas fa-sun text-warning"></i>
+</a>
+</li>
+
+<li class="nav-item mx-2 mx-lg-auto my-2 my-lg-auto">
+<a class="btn btn-icon mb-0 me-2 btn-primary" href="#">
+<i class="fas fa-shopping-basket icon"></i>
+Buy Now
+</a>
+</li>
+
+
+<li class="nav-item mx-2 mx-lg-auto my-2 my-lg-auto">
+<a class="btn mb-0 me-2 btn-primary bg-gradient-success" href="https://zeracreative.com/free-seo-tools/es/login">
+<i class="fas fa-user fa-fw"></i>
+Acceso
+</a>
+</li>
+
+</ul>
+</div>
+</div>
+</nav>
+
+<main class="main">
+<main wire:id="o8buFnSp6Lqmf7wohnRL" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;o8buFnSp6Lqmf7wohnRL&quot;,&quot;name&quot;:&quot;frontend.auth-pages.register&quot;,&quot;locale&quot;:&quot;es&quot;,&quot;path&quot;:&quot;es\/register&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;76ad5fa0&quot;,&quot;data&quot;:{&quot;email&quot;:null,&quot;password&quot;:null,&quot;fullname&quot;:null},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;010fea7642cd782c9c2fb657b841a974469b6912f8a67d7f72593847c288f363&quot;}}" class="main-content mt-0 ps">
+<section id="register-page">
+<div class="page-header min-vh-100">
+<div class="container">
+<div class="row">
+<div class="col-xl-4 col-lg-5 col-md-7 d-flex flex-column mx-lg-0 mx-auto">
+<div class="card card-plain">
+<div class="card-header pb-0 text-start">
+<h4 class="font-weight-bolder">Sign Up</h4>
+<p class="mb-0">Enter your email and password to register</p>
+</div>
+<div class="card-body">
+<form role="form" wire:submit.prevent="onRegister">
+
+
+<div class="mb-3">
+<label class="form-label">Nombre completo</label>
+<input class="form-control " placeholder="Introduzca su nombre" type="text" wire:model.lazy="fullname" required autofocus />
+</div>
+<div class="mb-3">
+<label class="form-label">Correo electrónico</label>
+<input class="form-control " placeholder="Introduce tu correo electrónico" type="email" wire:model.lazy="email" required />
+</div>
+<div class="mb-2">
+<label class="form-label">Contraseña</label>
+<div class="input-group input-group-flat">
+ <input class="form-control " placeholder="Introducir la contraseña" type="password" wire:model.lazy="password" required />
+</div>
+</div>
+<div class="text-center">
+<button type="submit" class="btn btn-lg bg-gradient-primary btn-lg w-100 mt-4 mb-0" wire:loading.attr="disabled">
+<span>
+<div wire:loading wire:target="onRegister">
+<i class="fas fa-spinner fa-spin fa-fw"></i> </div>
+<span>Inscribirse</span>
+</span>
+</button>
+</div>
+</form>
+</div>
+<div class="card-footer text-center pt-0 px-lg-2 px-1">
+<p class="mb-4 text-sm mx-auto">
+¿Ya tienes una cuenta?
+<a href="https://zeracreative.com/free-seo-tools/es/login" class="text-primary text-gradient font-weight-bold">Registrarse</a>
+</p>
+</div>
+</div>
+</div>
+<div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 end-0 text-center justify-content-center flex-column">
+<div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden auth-background">
+<span class="mask bg-gradient-primary opacity-6"></span>
+<h4 class="mt-5 text-white font-weight-bolder position-relative z-index-1">Hola amigo</h4>
+<p class="text-white position-relative z-index-1">Crea una cuenta para comenzar el viaje con nosotros.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+
+</main>
+<footer class="footer pt-3 mt-3 pb-0">
+<hr class="horizontal dark mb-4">
+<h4 class="text-center mb-3">Síguenos</h4>
+<div class="social-share text-center">
+<div class="share-icons relative">
+<a href="https://www.linkedin.com/company/zeracreative/" class="btn btn-linkedin btn-icon" target="_blank">
+<span class="btn-inner--icon"><i class="fab fa-linkedin fa-fw"></i></span>
+<span class="btn-inner--text">Linkedin</span>
+</a>
+<a href="https://www.youtube.com/channel/UCYjOcGVlAQTOUojOzVRkrsQ" class="btn btn-youtube btn-icon" target="_blank">
+<span class="btn-inner--icon"><i class="fab fa-youtube fa-fw"></i></span>
+<span class="btn-inner--text">Youtube</span>
+</a>
+<a href="https://www.instagram.com/zeracreativepk/" class="btn btn-instagram btn-icon" target="_blank">
+<span class="btn-inner--icon"><i class="fab fa-instagram fa-fw"></i></span>
+<span class="btn-inner--text">Instagram</span>
+</a>
+<a href="https://twitter.com/zeracreative" class="btn btn-twitter btn-icon" target="_blank">
+<span class="btn-inner--icon"><i class="fab fa-twitter fa-fw"></i></span>
+<span class="btn-inner--text">Twitter</span>
+</a>
+ <a href="https://www.facebook.com/zeracreativepk" class="btn btn-facebook btn-icon" target="_blank">
+<span class="btn-inner--icon"><i class="fab fa-facebook fa-fw"></i></span>
+<span class="btn-inner--text">Facebook</span>
+</a>
+</div>
+</div>
+<hr class="horizontal dark mb-5">
+<div class="container">
+<div class="row">
+<div class="col-md-3 mb-3">
+<div>
+<h6 class="text-gradient text-primary font-weight-bolder">About Us</h6> <p>Vestibulum quis risus sed nisl pellentesque aliquet et et lorem.</p> <p>Fusce nibh nisl, gravida nec ipsum eu, feugiat condimentum velit.</p>
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-6 mb-3">
+<div>
+<h6 class="text-gradient text-primary font-weight-bolder">Features</h6><ul class="flex-column nav"><li class="nav-item"><a class="nav-link ps-0" title="Help Center" href="#">Help Center</a></li><li class="nav-item"><a class="nav-link ps-0" title="Paid with Mobile" href="#">Paid with Mobile</a></li><li class="nav-item"><a class="nav-link ps-0" title="Status" href="#">Status</a></li><li class="nav-item"><a class="nav-link ps-0" title="Changelog" href="#">Changelog</a></li><li class="nav-item"><a class="nav-link ps-0" title="Contact Support" href="#">Contact Support</a></li></ul>
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-6 mb-3">
+<div>
+<h6 class="text-gradient text-primary font-weight-bolder">Support</h6><ul class="flex-column nav"><li class="nav-item"><a class="nav-link ps-0" title="Home" href="#">Home</a></li><li class="nav-item"><a class="nav-link ps-0" title="About" href="#">About</a></li><li class="nav-item"><a class="nav-link ps-0" title="FAQs" href="#">FAQs</a></li><li class="nav-item"><a class="nav-link ps-0" title="Support" href="#">Support</a></li><li class="nav-item"><a class="nav-link ps-0" title="Contact" href="#">Contact</a></li></ul>
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-6 mb-3">
+<div>
+<h6 class="text-gradient text-primary font-weight-bolder">Trending</h6><ul class="flex-column nav"><li class="nav-item"><a class="nav-link ps-0" title="Shop" href="#">Shop</a></li><li class="nav-item"><a class="nav-link ps-0" title="Portfolio" href="#">Portfolio</a></li><li class="nav-item"><a class="nav-link ps-0" title="Blog" href="#">Blog</a></li><li class="nav-item"><a class="nav-link ps-0" title="Events" href="#">Events</a></li><li class="nav-item"><a class="nav-link ps-0" title="Forums" href="#">Forums</a></li></ul>
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-6 mb-3 me-auto">
+<div>
+<h6 class="text-gradient text-primary font-weight-bolder">Legal</h6><ul class="flex-column nav"><li class="nav-item"><a class="nav-link ps-0" title="Knowledge Center" href="#">Knowledge Center</a></li><li class="nav-item"><a class="nav-link ps-0" title="Custom Development" href="#">Custom Development</a></li><li class="nav-item"><a class="nav-link ps-0" title="Sponsorships" href="#">Sponsorships</a></li><li class="nav-item"><a class="nav-link ps-0" title="Terms &amp; Conditions" href="#">Terms &amp; Conditions</a></li><li class="nav-item"><a class="nav-link ps-0" title="Privacy Policy" href="#">Privacy Policy</a></li></ul>
+</div>
+</div>
+ <div class="col-12">
+<div class="text-center">
+<p class="my-4 text-sm">
+<p>Copyrights © 2023. All Rights Reserved by <a title="ThemeLuxury" href="https://themeluxury.com/" target="_blank" rel="noopener">ThemeLuxury</a>.</p> </p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/jquery.min.js"></script>
+
+<script src="https://zeracreative.com/free-seo-tools/assets/js/main.min.js"></script>
+<script src="https://zeracreative.com/free-seo-tools/assets/js/lazysizes.min.js" async></script>
+<script src="https://zeracreative.com/free-seo-tools/assets/js/ls.unveilhooks.min.js" async></script>
+
+<div id="backtotop">
+<a href="javascript:void(0)" class="backtotop"></a>
+</div>
+<script type="text/javascript"> 
+            jQuery(document).ready(function ($) {
+                $("#backtotop").hide(); 
+                $(window).scroll(function () { 
+                    if ($(this).scrollTop() > 500) { 
+                        $('#backtotop').fadeIn(); 
+                    } else { 
+                        $('#backtotop').fadeOut(); 
+                    } 
+                });   
+            });
+
+            jQuery('.backtotop').click(function () { 
+                jQuery('html, body').animate({ 
+                    scrollTop: 0 
+                }, 'slow'); 
+            });
+        </script>
+
+<div class="row cookies-wrapper alert bg-gradient-info" role="alert">
+<div class="col-md-12 col-lg-10 my-auto text-left">
+Usamos cookies para asegurarnos de brindarle la mejor experiencia en nuestro sitio web. Si continúa utilizando este sitio, asumiremos que está satisfecho con él.
+</div>
+<div class="col-md-12 col-lg-2 my-auto text-end p-2">
+<button id="acceptCookies" target="_blank" class="btn btn-sm bg-white mb-0 text-capitalize"> Aceptar todas las cookies </button>
+</div>
+<button type="button" class="btn-close text-white" data-bs-dismiss="alert" aria-label="Close">x</button>
+</div>
+<script>
+             (function( $ ) {
+                "use strict";
+
+                    jQuery("#acceptCookies").click(function(){
+                        jQuery.ajax({
+                            type : 'get',
+                            url : 'https://zeracreative.com/free-seo-tools/cookies/accept',
+                            success: function(e) {
+                                jQuery('.cookies-wrapper').remove();
+                            }
+                        });
+                    });
+
+            })( jQuery );
+          </script>
+<script>
+         (function( $ ) {
+            "use strict";
+
+                jQuery(".btn-toggle-dir").click(function(){
+                    jQuery.ajax({
+                        type : 'get',
+                        url : 'https://zeracreative.com/free-seo-tools/dir/mode',
+                        success: function(e) {
+                            window.location.reload();
+                        }
+                    });
+                });
+
+        })( jQuery );
+      </script>
+<script>
+         (function( $ ) {
+            "use strict";
+
+                jQuery(".btn-toggle-mode").click(function(){
+                    jQuery.ajax({
+                        type : 'get',
+                        url : 'https://zeracreative.com/free-seo-tools/theme/mode',
+                        success: function(e) {
+                            window.location.reload();
+                        }
+                    });
+                });
+
+        })( jQuery );
+      </script>
+
+</div>
+
+<script src="https://zeracreative.com/free-seo-tools/vendor/livewire/livewire.js?id=940557fc56b15ccb9a2d" data-turbo-eval="false" data-turbolinks-eval="false"></script><script data-turbo-eval="false" data-turbolinks-eval="false">window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = 'https://zeracreative.com/free-seo-tools';window.livewire_token = 'T1vaf4xA966KHZQkWY8Z50JVPCPYKi8R4DzrlL0b';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+</body>
+</html>
